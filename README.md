@@ -1,4 +1,4 @@
-                                                                                **Online Payment Anamoly detection**
+                                                       **Online Payment Anamoly detection**
 1.Importing Libraries and Datasets
 2.Data Visualization
 3.Data Preprocessing
